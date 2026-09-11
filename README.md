@@ -1,7 +1,6 @@
 # Synthetic Open Sensor Data for Rail 2024 (SOSDaR24)
 
-<video src="assets/sample_video.mp4" controls width="100%"></video>
-
+![SOSDaR24 Demo](assets/sample_video.gif)
 
 ## Overview
 
