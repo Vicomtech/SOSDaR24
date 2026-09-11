@@ -43,14 +43,16 @@ Additionally, the dataset contains a folder called `info` where there are npy fi
 The SOSDaR24 Dataset is made freely available to academic and non-academic entities for research purposes such as academic research, teaching, scientific publications, or personal experimentation. If you use our dataset, we kindly ask you to cite our paper as:
 
 ```
-@article{iglesias2024enhancing,
-  title = {Enhancing Safety in Railway Environments: Interpretable Track and Obstacle Detection using On-board LiDAR},
-  author = {Aitor Iglesias and Jose Luis Apellaniz and Nerea Aranjuelo and Pedro Brandimarte and Jokin Irastorza and Marcos Nieto},
-  journal = {IEEE Transactions on Intelligent Transportation Systems (T-ITS)},
-  note = {Under review},
-  year = {2024},
-  specialissue = {Cyber and Digital Information in Railway Engineering and Operation}
-}
+@ARTICLE{11686188,
+  author={Iglesias, A. and Apellaniz, J.L. and Aranjuelo, N. and Brandimarte, P. and Irastorza, J. and Nieto, M.},
+  journal={IEEE Sensors Journal}, 
+  title={Interpretable Railway Track and Obstacle Detection using On-board LiDAR}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/JSEN.2026.3730546}}
+
 ```
 
 ## Acknowledgment
