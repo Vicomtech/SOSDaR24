@@ -1,5 +1,8 @@
 # Synthetic Open Sensor Data for Rail 2024 (SOSDaR24)
 
+<video src="assets/sample_video.mp4" controls width="100%"></video>
+
+
 ## Overview
 
 The **Synthetic Open Sensor Data for Rail 2024 (SOSDaR24)** dataset was created to fill the gap in publicly available datasets that include both obstacles on tracks and point clouds. It was generated using the [CARLA simulator](https://carla.org/) to avoid the costs and dangers of real-world railway data collection. The dataset consists of **100 scenes with 22,208 files per sensor**, featuring both **static and dynamic obstacles** such as boxes, pedestrians, and cars.
